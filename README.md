@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Menderson Costa</h1>
 
 <p align="center">
-  🎓 Bachelor of Computer Science from <a href="https://www.udesc.br/cct" target="_blank">UDESC</a> ·
+  🎓 Bachelor of Computer Science from <a href="https://www.udesc.br/cct" target="_blank">UDESC</a>
 </p>
 <p align="center">
-  🧠 Back-End Engineer at <a href="https://manchesterinvest.com.br/" target="_blank">Manchester Investimentos</a> ·  
+  🧠 Back-End Engineer at <a href="https://manchesterinvest.com.br/" target="_blank">Manchester Investimentos</a>
 </p>
 <p align="center">
   ☁️ AWS <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/8079f6a147394a69aa1583357d3282e4" target="_blank">Certified Cloud Practitioner</a>
